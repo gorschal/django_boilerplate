@@ -20,7 +20,7 @@ django-environ = "^0.12.0"
 ruff = "^0.14.0"
 
 [tool.poetry.group.production.dependencies]
-gunicorn = "^23.0.0"
+gunicorn = "^24.1.1"
 gevent = "^25.4.1"
 
 [build-system]
